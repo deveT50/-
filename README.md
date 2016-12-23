@@ -1,5 +1,5 @@
 # Where Does the Will Come From ?  
-#「意思」って、どうやって生まれるの？  
+##「意思」って、どうやって生まれるの？  
 https://devet50.github.io/Where-Does-the-Will-Come-From/  
   
 人の意志が形成されるメカニズムを半加算器を使ってモデル化する実験。  
@@ -12,15 +12,18 @@ Processing 2.2.1
 
 実験状況  
 <https://www.youtube.com/watch?v=hDI9DL5pECI>  
+  
 ![実験状況](https://github.com/deveT50/images/blob/master/Where-Does-the-Will-Come-From/experiment_2.png "展示状況")  
-
+  
 展示状況  
-![展示状況](https://github.com/deveT50/images/blob/master/Where-Does-the-Will-Come-From/exibition.png "展示状況")  
+![展示状況](https://github.com/deveT50/images/blob/master/Where-Does-the-Will-Come-From/exibition_2.png "展示状況")  
   
   
 ***  
-
-
+###フォルダ構成
+* docs ・・・・・・・・・・・・・・ GitHubPages用ソース  
+* experiments ・・・・・・・ シミュレーションプログラム（Processing）  
+* 
 
 
 
