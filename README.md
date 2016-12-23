@@ -12,8 +12,9 @@ Processing 2.2.1
 
 実験状況  
 <https://www.youtube.com/watch?v=hDI9DL5pECI>  
-  
-  
+![実験状況](https://github.com/deveT50/images/blob/master/Where-Does-the-Will-Come-From/experiment_2.png "展示状況")  
+
+展示状況  
 ![展示状況](https://github.com/deveT50/images/blob/master/Where-Does-the-Will-Come-From/exibition.png "展示状況")  
   
   
